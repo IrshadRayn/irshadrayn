@@ -1,70 +1,224 @@
-# Getting Started with Create React App
+<!-- MOHAMMAD IRSHAD AALAM — README.md -->
+<!-- bones. crowns. scrawl. dark green on black. nothing more. -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+```txt
+                                                              
+       ♛                                                      
+      /|\         M O H A M M A D   I R S H A D   A A L A M   
+      / \                                                     
+     _____        not a bug. not a feature.                   
+    |     |       a system in progress.                       
+    |_____|                                                   
+                                                              
+```
 
-In the project directory, you can run:
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=22&pause=1000&color=0D5F13&background=00000000&center=true&vCenter=true&width=700&lines=rajbiraj%2C+nepal;full-stack+developer+%2F+iot+builder;react+%2F+next.js+%2F+node.js+%2F+python;building+systems+that+solve+real+problems.;still+learning.+still+building." alt="Typing SVG" />
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div align="center">
 
-### `npm test`
+```txt
+                                                              
+   ANATOMY OF A DEVELOPER                                    
+   ──────────────────────                                    
+                                                              
+        ♛  ← crown. earned, not given.                       
+                                                              
+       skull  → backend systems                              
+       eyes   → always debugging                             
+       hands  → react / node / python                        
+       spine  → clean logic                                  
+       bones  → consistency                                  
+       heart  → still building, still learning               
+                                                              
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# ♛ WHO IS THIS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I'm **Mohammad Irshad Aalam** — a developer from **Rajbiraj, Nepal**.  
+I build systems that solve real-world problems through code.  
+Focused on full-stack development, backend architecture, IoT systems, and scalable applications.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```txt
+NAME        →  Mohammad Irshad Aalam
+LOCATION    →  Rajbiraj, Nepal
+STATUS      →  building
+FOCUS       →  full-stack & backend systems
+PHILOSOPHY  →  code with purpose
+```
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# ♛ WHAT I BUILD
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```txt
+  full-stack web applications.
+  backend APIs with node.js.
+  real-time websocket systems.
+  IoT automation projects.
+  caretaker platforms.
+  blood donation systems.
+  authentication systems.
+  database-driven applications.
+  responsive frontend interfaces.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  — systems designed to solve problems.
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+# ♛ THE ARSENAL
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```txt
+  JAVASCRIPT ─────────── core language
+  TYPESCRIPT ─────────── scalable frontend/backend
+  REACT ─────────────── frontend systems
+  NEXT.JS ───────────── full-stack architecture
+  NODE.JS ───────────── backend services
+  EXPRESS ───────────── REST APIs
+  PYTHON ────────────── automation & learning
+  JAVA ──────────────── structured systems
+  MYSQL ─────────────── relational databases
+  MONGODB ───────────── flexible storage
+  DOCKER ────────────── deployment
+  GIT ───────────────── version control
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div align="center">
 
-### Code Splitting
+![JavaScript](https://img.shields.io/badge/JavaScript-0D5F13?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D5F13?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-0D5F13?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0D5F13?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D5F13?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0D5F13?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D5F13?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0D5F13?style=flat-square&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D5F13?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D5F13?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D5F13?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D5F13?style=flat-square&logo=git&logoColor=white)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+</div>
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# ♛ CURRENT MISSION
 
-### Making a Progressive Web App
+```txt
+  → improving backend engineering skills
+  → learning scalable system design
+  → building production-ready projects
+  → mastering react & next.js ecosystem
+  → exploring distributed systems
+  → creating impactful solutions
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+# ♛ FEATURED PROJECTS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```txt
+  CARETAKER-AI
+  → childcare marketplace platform for parents & caretakers
 
-### Deployment
+  BLOOD DONATION SYSTEM
+  → donor management & emergency blood request system
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+  Movie Management  SYSTEM
+  → automatic fire detection & response mechanism
 
-### `npm run build` fails to minify
+  REAL-TIME CHAT SYSTEM
+  → websocket communication platform
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+# ♛ GITHUB STATS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=0D5F13&text_color=ffffff&icon_color=0D5F13&bg_color=00000000" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=true&layout=compact&title_color=0D5F13&text_color=ffffff&bg_color=00000000" />
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=0D5F13&fire=0D5F13&currStreakLabel=0D5F13&sideLabels=cccccc&dates=888888&currStreakNum=cccccc&sideNums=cccccc&background=00000000)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+# ♛ TROPHIES
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-bg=true&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# ♛ CONTRIBUTION GRAPH
+
+<div align="center">
+
+[![Irshad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=0D5F13&line=0D5F13&point=FFFFFF&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+# ♛ FIND ME
+
+```txt
+  LOCATION   →   Rajbiraj, Nepal
+  GITHUB     →   github.com/YOUR_USERNAME
+  LINKEDIN   →   linkedin.com/in/YOUR_LINK
+  EMAIL      →   yourmail@example.com
+  PORTFOLIO  →   coming soon
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D5F13?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D5F13?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0D5F13?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D5F13?style=flat-square&logo=safari&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+                                                              
+        ♛                                                     
+       ___                                                    
+      |   |      the code persists.                           
+      |___|      rajbiraj to everywhere.                      
+       /|\                                                    
+      / | \                                                   
+       / \                                                    
+      /   \                                                   
+                                                              
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0D5F13&style=flat-square&label=views)
+
+</div>
+
+<!-- bones. crowns. scrawl. nothing else. -->
