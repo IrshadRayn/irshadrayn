@@ -185,37 +185,29 @@ PHILOSOPHY  →  code with purpose
 
 ```txt
   LOCATION   →   Rajbiraj, Nepal
-  GITHUB     →   github.com/YOUR_USERNAME
-  LINKEDIN   →   linkedin.com/in/YOUR_LINK
-  EMAIL      →   yourmail@example.com
-  PORTFOLIO  →   coming soon
+  GITHUB     →   github.com/IrshadRayn
+  LINKEDIN   →   linkedin.com/
+  INSTAGRAM  →   instagram.com/
+  FACEBOOK   →   facebook.com/
+  X / TWITTER→   x.com/
+  DISCORD    →   discord.gg/
 ```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D5F13?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D5F13?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-0D5F13?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D5F13?style=flat-square&logo=safari&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-0D5F13?style=flat-square&logo=github&logoColor=white)](https://github.com/IrshadRayn)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D5F13?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-0D5F13?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-0D5F13?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/)
+
+[![X](https://img.shields.io/badge/X-0D5F13?style=flat-square&logo=x&logoColor=white)](https://x.com/)
+
+[![Discord](https://img.shields.io/badge/Discord-0D5F13?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/)
 
 </div>
-
----
-
-<div align="center">
-
-```txt
-                                                              
-        ♛                                                     
-       ___                                                    
-      |   |      the code persists.                           
-      |___|      rajbiraj to everywhere.                      
-       /|\                                                    
-      / | \                                                   
-       / \                                                    
-      /   \                                                   
-                                                              
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0D5F13&style=flat-square&label=views)
 
